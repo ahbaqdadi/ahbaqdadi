@@ -1,16 +1,4 @@
-## Hi there 👋
-
-<!--
-**ahbaqdadi/ahbaqdadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...# 💫 About Me:
+# 💫 About Me:
 ⛏️ I’m currently working on<br>A few backend and AI related projects that keep me busy and sharp.<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on<br>Clean backend architecture, automation tools, and anything challenging.<br><br>🤝 I’m looking for help with<br>Nothing specific right now, but I am always open to smart ideas.<br><br>🌱 I’m currently learning<br>More Go, better system design, and stronger AI workflow patterns.<br><br>💬 Ask me about<br>Backend development, PHP, Symfony, AI integration, automation, and scraping.<br><br>⚡ Fun fact<br>If I get focused, I forget to sleep.
 
 
@@ -28,6 +16,3 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=ahbaqdadi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
